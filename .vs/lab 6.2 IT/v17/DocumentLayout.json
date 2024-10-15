@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\programming\\lab 6.2 IT\\lab 6.2 IT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DC141CD4-7B9C-4937-B37E-D99113F67E9B}|UnitTest6.2IT\\UnitTest6.2IT.vcxproj|D:\\programming\\lab 6.2 IT\\lab 6.2 IT\\UnitTest6.2IT\\UnitTest6.2IT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC141CD4-7B9C-4937-B37E-D99113F67E9B}|UnitTest6.2IT\\UnitTest6.2IT.vcxproj|solutionrelative:UnitTest6.2IT\\UnitTest6.2IT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4B180DD7-5CE6-4165-893F-1473D884B13D}|lab 6.2 IT.vcxproj|D:\\programming\\lab 6.2 IT\\lab 6.2 IT\\lab 6.2 IT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4B180DD7-5CE6-4165-893F-1473D884B13D}|lab 6.2 IT.vcxproj|solutionrelative:lab 6.2 IT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest6.2IT.cpp",
+              "DocumentMoniker": "D:\\programming\\lab 6.2 IT\\lab 6.2 IT\\UnitTest6.2IT\\UnitTest6.2IT.cpp",
+              "RelativeDocumentMoniker": "UnitTest6.2IT\\UnitTest6.2IT.cpp",
+              "ToolTip": "D:\\programming\\lab 6.2 IT\\lab 6.2 IT\\UnitTest6.2IT\\UnitTest6.2IT.cpp",
+              "RelativeToolTip": "UnitTest6.2IT\\UnitTest6.2IT.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T13:17:11.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "lab 6.2 IT.cpp",
               "DocumentMoniker": "D:\\programming\\lab 6.2 IT\\lab 6.2 IT\\lab 6.2 IT.cpp",
               "RelativeDocumentMoniker": "lab 6.2 IT.cpp",
               "ToolTip": "D:\\programming\\lab 6.2 IT\\lab 6.2 IT\\lab 6.2 IT.cpp",
               "RelativeToolTip": "lab 6.2 IT.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-15T00:04:12.022Z",
               "EditorCaption": ""

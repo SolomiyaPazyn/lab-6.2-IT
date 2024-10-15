@@ -1,0 +1,6 @@
+﻿  UnitTest6.2IT.cpp
+D:\programming\lab 6.2 IT\lab 6.2 IT\lab 6.2 IT.cpp(85,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/UnitTest6.2IT.cpp')
+  
+     Creating library D:\programming\lab 6.2 IT\lab 6.2 IT\x64\Debug\UnitTest6.2IT.lib and object D:\programming\lab 6.2 IT\lab 6.2 IT\x64\Debug\UnitTest6.2IT.exp
+  UnitTest6.2IT.vcxproj -> D:\programming\lab 6.2 IT\lab 6.2 IT\x64\Debug\UnitTest6.2IT.dll
